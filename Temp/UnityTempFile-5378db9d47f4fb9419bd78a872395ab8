@@ -1,0 +1,76 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:Library/ScriptAssemblies/Assembly-UnityScript.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_NETWORK
+-define:ENABLE_MONO
+-define:ENABLE_PHYSICS
+-define:ENABLE_TERRAIN
+-define:ENABLE_CACHING
+-define:ENABLE_GENERICS
+-define:UNITY_ANDROID_API
+-define:ENABLE_CLOTH
+-define:ENABLE_AUDIO
+-define:ENABLE_WWW
+-define:ENABLE_SHADOWS
+-define:UNITY_4_0_0
+-define:UNITY_4_0
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_DUCK_TYPING
+Assets/Editor/GlobalImportSettings.cs
+Assets/Editor/PathologicalGames/Common/PGEditorUtils.cs
+Assets/Editor/PathologicalGames/PoolManager/PreRuntimePoolItemInspector.cs
+Assets/Editor/PathologicalGames/PoolManager/SpawnPoolInspector.cs
+"Assets/Merlin's Prefab Lab/Editor/PrefabLab.cs"
+"Assets/Merlin's Prefab Lab/Editor/PrefabLabDataInspectorGUI.cs"
+"Assets/Merlin's Prefab Lab/Editor/PrefabLabDropDownItems.cs"
+"Assets/Merlin's Prefab Lab/Editor/PrefabLabSettings.cs"
+"Assets/Merlin's Prefab Lab/Editor/PrefabLabWindow.cs"
+Assets/NGUI/Examples/Scripts/InventorySystem/Editor/InvDatabaseInspector.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Editor/InvFindItem.cs
+Assets/NGUI/Scripts/Editor/BMFontReader.cs
+Assets/NGUI/Scripts/Editor/ComponentSelector.cs
+Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs
+Assets/NGUI/Scripts/Editor/NGUIJson.cs
+Assets/NGUI/Scripts/Editor/NGUIMenu.cs
+Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs
+Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs
+Assets/NGUI/Scripts/Editor/SpriteSelector.cs
+Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs
+Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs
+Assets/NGUI/Scripts/Editor/UICameraTool.cs
+Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs
+Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs
+Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs
+Assets/NGUI/Scripts/Editor/UIFilledSpriteInspector.cs
+Assets/NGUI/Scripts/Editor/UIFontInspector.cs
+Assets/NGUI/Scripts/Editor/UIFontMaker.cs
+Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+Assets/NGUI/Scripts/Editor/UILabelInspector.cs
+Assets/NGUI/Scripts/Editor/UIPanelInspector.cs
+Assets/NGUI/Scripts/Editor/UIPanelTool.cs
+Assets/NGUI/Scripts/Editor/UIPopupListInspector.cs
+Assets/NGUI/Scripts/Editor/UIScrollBarInspector.cs
+Assets/NGUI/Scripts/Editor/UISettings.cs
+Assets/NGUI/Scripts/Editor/UISlicedSpriteInspector.cs
+Assets/NGUI/Scripts/Editor/UISliderInspector.cs
+Assets/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs
+Assets/NGUI/Scripts/Editor/UISpriteInspector.cs
+Assets/NGUI/Scripts/Editor/UITextureInspector.cs
+Assets/NGUI/Scripts/Editor/UITexturePacker.cs
+Assets/NGUI/Scripts/Editor/UITiledSpriteInspector.cs
+Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs
+Assets/Pixelplacement/iTweenPath/Editor/iTweenPathEditor.cs

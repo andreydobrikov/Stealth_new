@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Merlin's Prefab Lab\Editor\PrefabLabSettings.cs">
+    <Files>
+      <File FileName="Assets\a_Scripts\Main Scripts\ScriptAInputManager.cs" Line="151" Column="1" />
+      <File FileName="Assets\Merlin's Prefab Lab\Editor\PrefabLabSettings.cs" Line="65" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

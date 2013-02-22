@@ -1,0 +1,42 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/Managed/UnityEngine.dll"
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_NETWORK
+-define:ENABLE_MONO
+-define:ENABLE_PHYSICS
+-define:ENABLE_TERRAIN
+-define:ENABLE_CACHING
+-define:ENABLE_GENERICS
+-define:UNITY_ANDROID_API
+-define:ENABLE_CLOTH
+-define:ENABLE_AUDIO
+-define:ENABLE_WWW
+-define:ENABLE_SHADOWS
+-define:UNITY_4_0_0
+-define:UNITY_4_0
+Assets/Plugins/InputTouches/BasicDetector.cs
+Assets/Plugins/InputTouches/DragDetector.cs
+Assets/Plugins/InputTouches/DualFingerDetector.cs
+Assets/Plugins/InputTouches/GameMessage.cs
+Assets/Plugins/InputTouches/Gesture.cs
+Assets/Plugins/InputTouches/PublicClass.cs
+Assets/Plugins/InputTouches/SwipeDetector.cs
+Assets/Plugins/InputTouches/TapDetector.cs
+Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs
+Assets/Plugins/PathologicalGames/PoolManager/PreRuntimePoolItem.cs
+Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs
+Assets/Plugins/PoolManagerExampleFiles/Scripts/CreationExample.cs
+Assets/Plugins/PoolManagerExampleFiles/Scripts/SimpleSpawner.cs
+Assets/Plugins/iTween/Plugins/iTween.cs
+Assets/Plugins/iTween/Sample/MoveSample.cs
+Assets/Plugins/iTween/Sample/RotateSample.cs
+Assets/Plugins/iTween/Sample/SampleInfo.cs
+"Assets/Standard Assets/Scripts/Utility Scripts/CombineChildren.cs"
+"Assets/Standard Assets/Scripts/Utility Scripts/MeshCombineUtility.cs"
